@@ -13,7 +13,7 @@
     "@playwright/test": "^1.40.1",
     "@types/chrome": "^0.2.2",
     "@types/jest": "^29.5.11",
-    "css-loader": "^6.8.1",
+    "css-loader": "^7.1.5",
     "style-loader": "^3.3.3",
     "ts-loader": "^9.5.1",
     "typescript": "~6.0.3",
